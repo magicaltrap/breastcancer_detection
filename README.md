@@ -35,7 +35,7 @@ Confusion matrix:
 
 ![Confusion_Matrix](confusion_matrix.PNG)
 
-Especially in cancer diagnosis, the right measure/metric is of uttermost importance. Accuracy alone is not sufficient to tell if a screening model is good enough or not. Sensitivity (also known as recall) and specifity are two important metrics. According to the [WHO](https://www.who.int/cancer/detection/variouscancer/en/):
+Especially in cancer diagnosis, the right measure/metric is of uttermost importance. Accuracy alone is not sufficient to tell if a screening model is good enough or not. Sensitivity (also known as recall) and specificity are two important metrics. According to the [WHO](https://www.who.int/cancer/detection/variouscancer/en/):
 
 **Sensitivity**: the effectiveness of a test in detecting a cancer in those who have the disease.
 
